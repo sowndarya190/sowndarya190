@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sowndarya190
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning java and html
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ..sowndaryachandrappa@gmail.com
 - 😄 Pronouns: ...
